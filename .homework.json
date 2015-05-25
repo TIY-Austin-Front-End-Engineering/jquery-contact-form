@@ -1,0 +1,15 @@
+{
+    "name": "jquery-contact-form",
+    "version": "0.0.1",
+    "title": "jQuery Contact Form",
+    "description": "jQuery Contact Form",
+    "difficultyModes": [
+        "Normal"
+    ],
+    "keywords": [
+        "jQuery",
+        "Contact",
+        "Form",
+        "JavaScript"
+    ]
+}
