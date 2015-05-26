@@ -72,7 +72,6 @@ Use a keyup event to validate the form as a user is typing in content. The form 
 ## Notes
 
 
-<!-- ## Additional Resources
+## Additional Resources
 
-* Read []()
- -->
+* [validator-js](https://github.com/chriso/validator.js)
