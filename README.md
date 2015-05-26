@@ -34,7 +34,7 @@ After completing this assignment, you be able to effectively use
 * A repo containing at least:
   * `dist/index.html`
   * `dist/scripts/app.js`
-  * `dist/scripts/controllers.js`
+  * `dist/scripts/main.js`
   * `dist/images/bg.jpg`
 
 ### Requirements
