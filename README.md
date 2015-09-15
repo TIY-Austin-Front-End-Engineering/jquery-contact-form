@@ -32,10 +32,9 @@ After completing this assignment, you be able to effectively use
 ### Deliverables
 
 * A repo containing at least:
-  * `dist/index.html`
-  * `dist/scripts/app.js`
-  * `dist/scripts/main.js`
-  * `dist/images/bg.jpg`
+  * `index.html`
+  * `scripts/main.js`
+  * `images/bg.jpg`
 
 ### Requirements
 
