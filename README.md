@@ -35,6 +35,7 @@ After completing this assignment, you be able to effectively use
   * `index.html`
   * `scripts/main.js`
   * `images/bg.jpg`
+  * `package.json`
 
 ### Requirements
 
